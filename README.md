@@ -1,3 +1,5 @@
+Fork from https://github.com/thunlp/StyleAttack.
+
 # StyleAttack
 Code and data of the EMNLP 2021 paper "**Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer**" [[pdf](https://arxiv.org/abs/2110.07139)]
 
